@@ -34,7 +34,7 @@
 - **TensorRT Engine 模型结果**：
   ![Engine模型截图](screenshot_best_engine.jpg)
 - **三者对比截图**
-
+   ![三者对比截图](comparison.png)
 
 ## 6. 模型大小、推理耗时及检测效果对比
 
